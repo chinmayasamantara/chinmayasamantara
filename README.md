@@ -2,7 +2,7 @@
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@program75065639-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/@program75065639)](https://twitter.com/Ipenywis)
+[![Twitter Badge](https://img.shields.io/badge/-@program75065639-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/@program75065639)](https://twitter.com/program75065639)
 <!-- TODO: Add last video link -->
 ### Tutorials
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscodetutorial]
